@@ -1,0 +1,2 @@
+# shortify
+Simplify Your URLs
